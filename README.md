@@ -10,7 +10,7 @@
 
 ![](.gitbook/assets/ptx-zi-liao-pin-zhi-zhuang-tai-1.png)
 
-**2. 本月空間檢核成果（檢核時間：2019-08-05 16:00:00）**
+**2. 本月空間檢核成果（檢核時間：2019-09-04 10:00:00）**
 
-![](.gitbook/assets/qi-ba-yue-kong-jian-pin-zhi-jian-he-jie-lou.png)
+![](.gitbook/assets/20190809-kong-jian-pin-zhi-jian-he-jie-lou-jian-he-shi-jian-20190904-1000.png)
 
